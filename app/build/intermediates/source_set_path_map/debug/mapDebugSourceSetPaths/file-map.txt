@@ -1,0 +1,42 @@
+com.example.mealmate.app-annotation-experimental-1.4.0-0 C:\Users\Admin\.gradle\caches\8.11.1\transforms\0351fda0090ddfa84ef0f2a9eb056f6a\transformed\annotation-experimental-1.4.0\res
+com.example.mealmate.app-firebase-common-20.4.3-1 C:\Users\Admin\.gradle\caches\8.11.1\transforms\0b80aec1e84a3fd8671a85f112f676a5\transformed\firebase-common-20.4.3\res
+com.example.mealmate.app-drawerlayout-1.1.1-2 C:\Users\Admin\.gradle\caches\8.11.1\transforms\0defe080b06f26293bcbe1228a433596\transformed\drawerlayout-1.1.1\res
+com.example.mealmate.app-savedstate-1.2.1-3 C:\Users\Admin\.gradle\caches\8.11.1\transforms\285365f8769e5119edae66572575ac83\transformed\savedstate-1.2.1\res
+com.example.mealmate.app-lifecycle-livedata-core-2.7.0-4 C:\Users\Admin\.gradle\caches\8.11.1\transforms\2e675d796bbf1c6c9b890893f599c1be\transformed\lifecycle-livedata-core-2.7.0\res
+com.example.mealmate.app-cardview-1.0.0-5 C:\Users\Admin\.gradle\caches\8.11.1\transforms\3311c3446ccba812b72d14a438251d3e\transformed\cardview-1.0.0\res
+com.example.mealmate.app-activity-1.10.1-6 C:\Users\Admin\.gradle\caches\8.11.1\transforms\33c3420a23c5e71aaa85bb66e43b7c8e\transformed\activity-1.10.1\res
+com.example.mealmate.app-core-ktx-1.13.0-7 C:\Users\Admin\.gradle\caches\8.11.1\transforms\451c2751d2dbb0894f35dc5f7ef229b0\transformed\core-ktx-1.13.0\res
+com.example.mealmate.app-startup-runtime-1.1.1-8 C:\Users\Admin\.gradle\caches\8.11.1\transforms\535a6d07f7b7f7b243ea610c83a52f1f\transformed\startup-runtime-1.1.1\res
+com.example.mealmate.app-material-1.12.0-9 C:\Users\Admin\.gradle\caches\8.11.1\transforms\63bb1296246b17021288b783ac6874ab\transformed\material-1.12.0\res
+com.example.mealmate.app-lifecycle-viewmodel-2.7.0-10 C:\Users\Admin\.gradle\caches\8.11.1\transforms\6ba6d54f07d73aee8e3a2c953e4c7d76\transformed\lifecycle-viewmodel-2.7.0\res
+com.example.mealmate.app-fragment-1.5.4-11 C:\Users\Admin\.gradle\caches\8.11.1\transforms\6fb79f4f5c3e268b954652027a6c1868\transformed\fragment-1.5.4\res
+com.example.mealmate.app-lifecycle-livedata-2.7.0-12 C:\Users\Admin\.gradle\caches\8.11.1\transforms\6fbea171f492d7ca07b56e40be11b093\transformed\lifecycle-livedata-2.7.0\res
+com.example.mealmate.app-appcompat-1.7.0-13 C:\Users\Admin\.gradle\caches\8.11.1\transforms\749a7178aeb131ddc26b2f0283591979\transformed\appcompat-1.7.0\res
+com.example.mealmate.app-constraintlayout-2.2.1-14 C:\Users\Admin\.gradle\caches\8.11.1\transforms\773a02e917dc14930595ea46909e268b\transformed\constraintlayout-2.2.1\res
+com.example.mealmate.app-emoji2-views-helper-1.3.0-15 C:\Users\Admin\.gradle\caches\8.11.1\transforms\79374bbb32894d34ed81deba42a94f77\transformed\emoji2-views-helper-1.3.0\res
+com.example.mealmate.app-lifecycle-process-2.7.0-16 C:\Users\Admin\.gradle\caches\8.11.1\transforms\899c61b87c2134ecc577469430f0845e\transformed\lifecycle-process-2.7.0\res
+com.example.mealmate.app-coordinatorlayout-1.1.0-17 C:\Users\Admin\.gradle\caches\8.11.1\transforms\8e50a333db67cf5a375f3982a5b45d2e\transformed\coordinatorlayout-1.1.0\res
+com.example.mealmate.app-emoji2-1.3.0-18 C:\Users\Admin\.gradle\caches\8.11.1\transforms\9e84fdbdd21638c8065c880b2a3a1720\transformed\emoji2-1.3.0\res
+com.example.mealmate.app-transition-1.5.0-19 C:\Users\Admin\.gradle\caches\8.11.1\transforms\a282402223d3fa0f906b6e14fca8c58e\transformed\transition-1.5.0\res
+com.example.mealmate.app-play-services-base-18.0.1-20 C:\Users\Admin\.gradle\caches\8.11.1\transforms\a32e26e76cba95a5cc9dcf3704c22353\transformed\play-services-base-18.0.1\res
+com.example.mealmate.app-play-services-basement-18.3.0-21 C:\Users\Admin\.gradle\caches\8.11.1\transforms\b9bcf2077a2116712bf111c2b822c5b6\transformed\play-services-basement-18.3.0\res
+com.example.mealmate.app-profileinstaller-1.4.0-22 C:\Users\Admin\.gradle\caches\8.11.1\transforms\c3630936c0ac92314e900ca9bfa0c8ff\transformed\profileinstaller-1.4.0\res
+com.example.mealmate.app-browser-1.4.0-23 C:\Users\Admin\.gradle\caches\8.11.1\transforms\cf938fb9976fd0c9a41de6745b07d1d1\transformed\browser-1.4.0\res
+com.example.mealmate.app-appcompat-resources-1.7.0-24 C:\Users\Admin\.gradle\caches\8.11.1\transforms\d2105dd41b7293d495525dce40647785\transformed\appcompat-resources-1.7.0\res
+com.example.mealmate.app-lifecycle-runtime-2.7.0-25 C:\Users\Admin\.gradle\caches\8.11.1\transforms\d85fa3ba86e7e141138a6666bf3416e8\transformed\lifecycle-runtime-2.7.0\res
+com.example.mealmate.app-glide-4.16.0-26 C:\Users\Admin\.gradle\caches\8.11.1\transforms\e2e56c8f3e273e3a0ec55b0721e48306\transformed\glide-4.16.0\res
+com.example.mealmate.app-lifecycle-viewmodel-savedstate-2.7.0-27 C:\Users\Admin\.gradle\caches\8.11.1\transforms\e399e8d5678bf80e7bf70396277f8460\transformed\lifecycle-viewmodel-savedstate-2.7.0\res
+com.example.mealmate.app-viewpager2-1.0.0-28 C:\Users\Admin\.gradle\caches\8.11.1\transforms\ea5dc189f9cdd2f82e30b7acc83f3fc3\transformed\viewpager2-1.0.0\res
+com.example.mealmate.app-core-1.13.0-29 C:\Users\Admin\.gradle\caches\8.11.1\transforms\ea9f50f05ab675a5bfd1134f9fa7f434\transformed\core-1.13.0\res
+com.example.mealmate.app-recyclerview-1.1.0-30 C:\Users\Admin\.gradle\caches\8.11.1\transforms\efb206e82c05422b83ae656a3f369f49\transformed\recyclerview-1.1.0\res
+com.example.mealmate.app-lifecycle-livedata-core-ktx-2.7.0-31 C:\Users\Admin\.gradle\caches\8.11.1\transforms\efc369ca555942f6bba91da9044a5a7f\transformed\lifecycle-livedata-core-ktx-2.7.0\res
+com.example.mealmate.app-core-runtime-2.2.0-32 C:\Users\Admin\.gradle\caches\8.11.1\transforms\f53d00fdec31c22f3c7b7f4785dd2e18\transformed\core-runtime-2.2.0\res
+com.example.mealmate.app-core-viewtree-1.0.0-33 C:\Users\Admin\.gradle\caches\8.11.1\transforms\f7db8285f49069ed3f829987687602b4\transformed\core-viewtree-1.0.0\res
+com.example.mealmate.app-pngs-34 C:\Users\Admin\Desktop\Android\Bhaskar Budha\MealMate\app\build\generated\res\pngs\debug
+com.example.mealmate.app-res-35 C:\Users\Admin\Desktop\Android\Bhaskar Budha\MealMate\app\build\generated\res\processDebugGoogleServices
+com.example.mealmate.app-resValues-36 C:\Users\Admin\Desktop\Android\Bhaskar Budha\MealMate\app\build\generated\res\resValues\debug
+com.example.mealmate.app-packageDebugResources-37 C:\Users\Admin\Desktop\Android\Bhaskar Budha\MealMate\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.mealmate.app-packageDebugResources-38 C:\Users\Admin\Desktop\Android\Bhaskar Budha\MealMate\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.mealmate.app-debug-39 C:\Users\Admin\Desktop\Android\Bhaskar Budha\MealMate\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.mealmate.app-debug-40 C:\Users\Admin\Desktop\Android\Bhaskar Budha\MealMate\app\src\debug\res
+com.example.mealmate.app-main-41 C:\Users\Admin\Desktop\Android\Bhaskar Budha\MealMate\app\src\main\res

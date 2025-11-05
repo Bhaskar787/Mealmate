@@ -1,0 +1,5 @@
+com.example.mealmate.test.app-core-1.6.1-0 C:\Users\Admin\.gradle\caches\8.11.1\transforms\2f0ab53be2e1b2fb932085470edf6fee\transformed\core-1.6.1\res
+com.example.mealmate.test.app-androidTest-1 C:\Users\Admin\Desktop\Android\Bhaskar Budha\MealMate\app\build\generated\res\resValues\androidTest\debug
+com.example.mealmate.test.app-mergeDebugAndroidTestResources-2 C:\Users\Admin\Desktop\Android\Bhaskar Budha\MealMate\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.mealmate.test.app-mergeDebugAndroidTestResources-3 C:\Users\Admin\Desktop\Android\Bhaskar Budha\MealMate\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.mealmate.test.app-debugAndroidTest-4 C:\Users\Admin\Desktop\Android\Bhaskar Budha\MealMate\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "com.example.mealmate.app-mergeDebugResources-38:/layout/fragment_grocery_list.xml",
+        "source": "com.example.mealmate.app-main-41:/layout/fragment_grocery_list.xml"
+    },
+    {
+        "merged": "com.example.mealmate.app-mergeDebugResources-38:/layout/activity_welcome.xml",
+        "source": "com.example.mealmate.app-main-41:/layout/activity_welcome.xml"
+    },
+    {
+        "merged": "com.example.mealmate.app-mergeDebugResources-38:/layout/dialog_add_meal.xml",
+        "source": "com.example.mealmate.app-main-41:/layout/dialog_add_meal.xml"
+    },
+    {
+        "merged": "com.example.mealmate.app-mergeDebugResources-38:/layout/fragment_meal_plan.xml",
+        "source": "com.example.mealmate.app-main-41:/layout/fragment_meal_plan.xml"
+    },
+    {
+        "merged": "com.example.mealmate.app-mergeDebugResources-38:/layout/dialog_reset_password.xml",
+        "source": "com.example.mealmate.app-main-41:/layout/dialog_reset_password.xml"
+    },
+    {
+        "merged": "com.example.mealmate.app-mergeDebugResources-38:/layout/nav_header_main.xml",
+        "source": "com.example.mealmate.app-main-41:/layout/nav_header_main.xml"
+    },
+    {
+        "merged": "com.example.mealmate.app-mergeDebugResources-38:/layout/dialog_add_grocery.xml",
+        "source": "com.example.mealmate.app-main-41:/layout/dialog_add_grocery.xml"
+    },
+    {
+        "merged": "com.example.mealmate.app-mergeDebugResources-38:/layout/fragment_profile.xml",
+        "source": "com.example.mealmate.app-main-41:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.example.mealmate.app-mergeDebugResources-38:/layout/dialog_sms_grocery.xml",
+        "source": "com.example.mealmate.app-main-41:/layout/dialog_sms_grocery.xml"
+    },
+    {
+        "merged": "com.example.mealmate.app-mergeDebugResources-38:/layout/app_bar_main.xml",
+        "source": "com.example.mealmate.app-main-41:/layout/app_bar_main.xml"
+    },
+    {
+        "merged": "com.example.mealmate.app-mergeDebugResources-38:/layout/fragment_home.xml",
+        "source": "com.example.mealmate.app-main-41:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.mealmate.app-mergeDebugResources-38:/layout/item_input_field.xml",
+        "source": "com.example.mealmate.app-main-41:/layout/item_input_field.xml"
+    },
+    {
+        "merged": "com.example.mealmate.app-mergeDebugResources-38:/layout/item_recipe.xml",
+        "source": "com.example.mealmate.app-main-41:/layout/item_recipe.xml"
+    },
+    {
+        "merged": "com.example.mealmate.app-mergeDebugResources-38:/layout/item_meal.xml",
+        "source": "com.example.mealmate.app-main-41:/layout/item_meal.xml"
+    },
+    {
+        "merged": "com.example.mealmate.app-mergeDebugResources-38:/layout/fragment_recipe_details.xml",
+        "source": "com.example.mealmate.app-main-41:/layout/fragment_recipe_details.xml"
+    },
+    {
+        "merged": "com.example.mealmate.app-mergeDebugResources-38:/layout/item_calendar_day.xml",
+        "source": "com.example.mealmate.app-main-41:/layout/item_calendar_day.xml"
+    },
+    {
+        "merged": "com.example.mealmate.app-mergeDebugResources-38:/layout/fragment_recipes.xml",
+        "source": "com.example.mealmate.app-main-41:/layout/fragment_recipes.xml"
+    },
+    {
+        "merged": "com.example.mealmate.app-mergeDebugResources-38:/layout/activity_register.xml",
+        "source": "com.example.mealmate.app-main-41:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.mealmate.app-mergeDebugResources-38:/layout/dialog_recipe.xml",
+        "source": "com.example.mealmate.app-main-41:/layout/dialog_recipe.xml"
+    },
+    {
+        "merged": "com.example.mealmate.app-mergeDebugResources-38:/layout/activity_login.xml",
+        "source": "com.example.mealmate.app-main-41:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.mealmate.app-mergeDebugResources-38:/layout/content_main.xml",
+        "source": "com.example.mealmate.app-main-41:/layout/content_main.xml"
+    },
+    {
+        "merged": "com.example.mealmate.app-mergeDebugResources-38:/layout/item_grocery.xml",
+        "source": "com.example.mealmate.app-main-41:/layout/item_grocery.xml"
+    },
+    {
+        "merged": "com.example.mealmate.app-mergeDebugResources-38:/layout/activity_main.xml",
+        "source": "com.example.mealmate.app-main-41:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.mealmate.app-mergeDebugResources-38:/layout/item_recent_activity.xml",
+        "source": "com.example.mealmate.app-main-41:/layout/item_recent_activity.xml"
+    }
+]
